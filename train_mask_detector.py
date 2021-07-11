@@ -25,7 +25,7 @@ import os
 INIT_LR = 1e-4
 EPOCHS = 20
 BS = 32
-
+## Add your dataset folder path here.
 DIRECTORY = r"/media/pratyay/Local Disk/coding/python/opencv/Face-Mask-Detection-master/dataset"
 CATEGORIES = ["with_mask", "without_mask"]
 
